@@ -45,3 +45,17 @@ Below is a sample of the interactive menu:
 ```bash
 git clone https://github.com/mayankbansal76588/Library_Manager.git
 cd Library_Manager
+```
+
+---
+## ⚡️ Compilation and Run Instructions
+
+### ✅ 1. Compile the Project
+```bash
+g++ main.cpp Book.cpp User.cpp LibraryManager.cpp -o library
+```
+### ✅ 2. Run the program
+```bash
+./library
+```
+
