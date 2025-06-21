@@ -32,7 +32,6 @@ Below is a sample of the interactive menu:
 
 ## 📂 Files
 
-- **`main.cpp`** → Main source code implementing the system  
 - **`books.txt`** → Book records (title, author, ISBN, quantity)  
 - **`users.txt`** → User records (name, ID, user type, borrow limit)  
 - **`borrowed.txt`** → Borrowed book records (user ID, ISBN)
