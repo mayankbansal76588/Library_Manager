@@ -26,7 +26,7 @@ It allows the library admin to **add/remove books**, **register users**, **borro
 
 Below is a sample of the interactive menu:
 
-![Library Menu Screenshot](8074c98e-369e-4a77-8fc7-0f14ea06d368.png)
+![Library Menu Screenshot](menu.png)
 
 ---
 
